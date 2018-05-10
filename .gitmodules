@@ -1,0 +1,3 @@
+[submodule "newpart"]
+	path = newpart
+	url = https://github.com/lebatai/newpart
